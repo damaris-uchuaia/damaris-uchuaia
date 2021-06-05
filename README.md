@@ -1,4 +1,4 @@
-**Damaris Uchuaia 👋**
+#Damaris Uchuaia 👋
 
 I'm 23 years old developer, passionate about changing the world through **programming**. Also I'm an **Angular** and **JavaScript** student. I find myself creative and demanding, always curious about new technologies.
 
